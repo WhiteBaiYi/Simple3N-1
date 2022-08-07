@@ -14,9 +14,9 @@ else
 	{n = 3*n+1;
 	std::cout << "n= " << n << std::endl;
 	}
+}
 if (n == 1) {
 std::cout << "此数满足3N+1\n";
 }
-	}
 return 0;
 }
